@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🚀 Technologies and Tools
-
+- 🖥️ **Languages**: **C**, **C++**, **Python**, **Dart**
+- 🛠️ **Tools**: **Git**, **GitHub**, **VS Code**, **Google Colab**
 ## 🏆 My GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vuhoangviet0808&show_icons=true&hide_title=true)
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vuhoangviet0808&layout=compact)
